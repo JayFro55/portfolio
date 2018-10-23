@@ -1,0 +1,58 @@
+body{
+  background-color: oldlace;
+}
+h1{
+  color: gold;
+  /*border-style: groove;*/
+  /*border: 15px groove rebeccapurple;*/
+  border-top: double;
+  border-right: solid;
+  border-left: solid;
+  border-bottom: double;
+  border-color: gold;
+  border-width: 1.8rem;
+  padding: 2rem;
+  margin: 1rem;
+  background-color: purple;
+}
+nav{
+  border-color: blue;
+  border-style: solid;
+  margin: 1rem;
+}
+h2{
+  color: gold;
+  background-color: purple;
+  border-style: double;
+  border-width: .5rem;
+  padding: .3rem;
+  margin: 1rem;
+  border-color: gold;
+}
+h3{
+  color: navy;
+  border-bottom: solid;
+  border-width: .1rem;
+  padding: .2rem;
+  margin: 1rem;
+}
+article{
+  color: rebeccapurple;
+  margin: 1rem;
+}
+img {
+  border-style: double;
+  width: 80%;
+  border-width: .3rem;
+  border-color: black;
+  margin: 1rem;
+  padding: .1rem;
+}
+footer{
+  border-style: solid;
+  border-color: black;
+  border-width: .1rem;
+  margin: 1rem;
+  padding: .1rem;
+  font-family: arial;
+}
