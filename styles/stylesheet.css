@@ -14,6 +14,7 @@ h1{
   padding: 2rem;
   margin: 1rem;
   background-color: purple;
+  font-family: Robot, sans-serif;
 }
 nav{
   border-color: blue;
@@ -28,6 +29,7 @@ h2{
   padding: .3rem;
   margin: 1rem;
   border-color: gold;
+  font-family: Robot, sans-serif;
 }
 h3{
   color: navy;
@@ -54,5 +56,7 @@ footer{
   border-width: .1rem;
   margin: 1rem;
   padding: .1rem;
-  font-family: arial;
+  font-family: "Poor Story", cursive;
+  display: flex;
+  justify-content: flex-end;
 }
